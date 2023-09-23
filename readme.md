@@ -9,7 +9,7 @@ I hold all of my projects and packages to the same standards of accessibility, p
 
 > | Project | Tech used | Description |
 > | ------- | --------- | ----------- |
-> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | `Nextjs`  `Typescript`  `Contentlayer` | Next.js blog with @contentlayer integration |
+> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | Nextjs Typescript ContentLayer | Next.js blog with @contentlayer integration |
 > | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | `Typescript` `Tsup` | Lightweight month interface datepicker library for Vanilla JS & Typescript |
 > | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | `Typescript` `Tsup` | Context Menu library for Vanilla JS & Typescript |
 > | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | `Vanilla JS` `Webpack` | Personal portfolio to showcase Front-end skills/projects |
