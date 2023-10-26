@@ -7,22 +7,22 @@ I hold all of my projects and packages to the same standards of accessibility, p
 * [x] PageSpeed Inisght 100% score
 * [x] WCAG 2.1 AA/AAA contrast ratio requirements (100%)
 
-> | Project | Tech used | Description |
-> | ------- | --------- | ----------- |
-> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | Vanilla JS, Webpack | Personal portfolio to showcase Front-end skills/projects |
-> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | Nextjs, Typescript, ContentLayer | Next.js blog with @contentlayer integration |
-> | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | Typescript, Tsup | Lightweight month interface datepicker library for Vanilla JS & Typescript |
-> | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | Typescript, Tsup | Context Menu library for Vanilla JS & Typescript |
-> | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | React, Vite | Custom markdown editor with real-time preview. |
-> | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | Vanilla JS, Webpack | Zero dependency clone of Google Calendar |
+> | Repo Link | Live Link | Tech used |
+> | ------- | --------- | --------- |
+> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [Live](https://chaseottofy.github.io/Portfolio/) | Vanilla JS, Webpack |
+> | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://chaseottofy.github.io/google-calendar-clone-vanilla/) | Vanilla JS, Webpack |
+> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | Nextjs, Typescript, ContentLayer |
+> | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | [Live](https://chaseottofy.github.io/react-lite-markdown/) | React, Vite |
+> | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | [Live](https://stackblitz.com/edit/monthpicker-lite-js?file=package.json) |Typescript, Tsup |
+> | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | [Live](https://codepen.io/chaseottofy/pen/vYQaaeq) | Typescript, Tsup |
 
 ---
 
 **I am available to work full-time immediately with no restrictions, whether that be remote or in-person.**
 
 Please feel free to reach out to me via email at:
+
 ```bash
 ottofy@zohomail.com
 ```
-
 ---
