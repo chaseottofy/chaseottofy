@@ -9,7 +9,7 @@ I hold all of my projects and packages to the same standards of accessibility, p
 
 > | Repo Link | Live Link | Tech used |
 > | ------- | --------- | --------- |
-> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [Live](https://ottofy.dev) | Vanilla JS, Webpack |
+> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [ottofy.dev](https://ottofy.dev) | Vanilla JS, Webpack |
 > | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://chaseottofy.github.io/google-calendar-clone-vanilla/) | Vanilla JS, Webpack |
 > | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | Nextjs, Typescript, ContentLayer |
 > | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | [Live](https://chaseottofy.github.io/react-lite-markdown/) | React, Vite |
