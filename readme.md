@@ -14,7 +14,7 @@ The google calender clone is the most impressive, but it was also my earliest. I
 > | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | [Live](https://chaseottofy.github.io/react-lite-markdown/) | React |
 > | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | [Live](https://stackblitz.com/edit/monthpicker-lite-js?file=package.json) |Typescript |
 > | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | [Live](https://codepen.io/chaseottofy/pen/vYQaaeq) | Typescript |
-> | [**NPM Package: Invert-css**](https://www.npmjs.com/package/invert-css) | [Repo](https://github.com/chaseottofy/invert-css-variables) | Typescript |
+> | [**NPM Package: Invert-css**](https://www.npmjs.com/package/invert-css) | [Live](https://chaseottofy.github.io/invert-css-variables-ui/) | Typescript |
 
 ---
 
