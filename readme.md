@@ -1,6 +1,6 @@
-## Highlighted Projects listed in order of most recent
-
 **Check out my portfolio: [ottofy.dev](https://ottofy.dev)**
+
+---
 
 My most recent polished project, and the best representation of my current skillset is the Next.js Blog.
 
