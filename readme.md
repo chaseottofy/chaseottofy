@@ -8,9 +8,9 @@ The google calender clone is the most impressive, but it was also my earliest. I
 
 > | Repo Link | Live Link | Tech |
 > | ------- | --------- | --------- |
-> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [ottofy.dev](https://ottofy.dev) | ![js] <br> ![webpack] |
-> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | ![next] <br> ![react] <br> ![ts] |
-> | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://chaseottofy.github.io/google-calendar-clone-vanilla/) | ![js] <br> ![webpack] |
+> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [ottofy.dev](https://ottofy.dev) | ![js] ![webpack] |
+> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | ![next] ![react] ![ts] |
+> | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://chaseottofy.github.io/google-calendar-clone-vanilla/) | ![js] ![webpack] |
 > | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | [Live](https://chaseottofy.github.io/react-lite-markdown/) | ![react] |
 > | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | [Live](https://stackblitz.com/edit/monthpicker-lite-js?file=package.json) | ![ts] |
 > | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | [Live](https://codepen.io/chaseottofy/pen/vYQaaeq) | ![ts] |
