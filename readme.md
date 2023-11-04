@@ -18,6 +18,22 @@ The google calender clone is the most impressive, but it was also my earliest. I
 
 ---
 
+Smaller projects are published to [Codepen @chaseottofy](https://codepen.io/chaseottofy/pens/showcase)
+
+I've also started sharing some front-end automation/utility scripts - [front-end-tools](https://github.com/chaseottofy/front-end-tools)
+
+---
+
+**No social media**
+
+Additional Links of sites I'm active on:
+
+[![youtube]](https://www.youtube.com/channel/UCawR0cR_xHGCnKy3Vg6yc7g)
+
+![codewars](https://www.codewars.com/users/protto/badges/large)
+
+<br>
+
 **I am available to work full-time immediately with no restrictions, whether that be remote or in-person.**
 My current location is Northern Colorado.
 
@@ -33,3 +49,4 @@ ottofy@zohomail.com
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [webpack]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black
 [react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[youtube]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
