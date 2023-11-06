@@ -1,30 +1,37 @@
-### **[portfolio: ottofy.dev](https://ottofy.dev)**
+### Portfolio: **[ottofy.dev](https://ottofy.dev)**
+
+In progress / recently completed -- *11/6/23*
+
+* [ ] [React/TS: Form validation + custom API]()
+* [x] [React/TS: Infinite Scroll Demo w/ jsonplaceholder API](https://chaseottofy.github.io/infinite-scroll-demo/)
+* [x] [Typescript: Invert bulk css variables package/webtool](https://chaseottofy.github.io/invert-css-variables-ui/)
+* [x] [Typescript: Hackernews frontpage clone using RSS](https://github.com/chaseottofy/rss-parser-demo)
 
 ---
 
-My most recent polished project, and the best representation of my current skillset is the Next.js Blog.
+#### **Polished projects** -- Newest to Oldest.
+
+> **Demo + Repo links.**
+> 
+> The Google Calendar clone is almost 2 years old and was the first thing I built from scratch so keep that in mind when looking at the code.
+> The rest were all made in the last 4 months and are significantly better with regards to code quality, structure, testing, and documentation.
 
 > | Repo Link | Live Link | Tech |
 > | ------- | --------- | --------- |
-> | [**Portfolio**](https://github.com/chaseottofy/Portfolio) | [ottofy.dev](https://ottofy.dev) | ![js] ![webpack] |
-> | [**Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | ![next] ![react] ![ts] |
-> | [**Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://chaseottofy.github.io/google-calendar-clone-vanilla/) | ![js] ![webpack] |
-> | [**Markdown Parser/Editor**](https://github.com/chaseottofy/react-lite-markdown) | [Live](https://chaseottofy.github.io/react-lite-markdown/) | ![react] |
-> | [**NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | [Live](https://stackblitz.com/edit/monthpicker-lite-js?file=package.json) | ![ts] |
-> | [**NPM Package: Context-menu**](https://www.npmjs.com/package/tiny-context-menu-js) | [Live](https://codepen.io/chaseottofy/pen/vYQaaeq) | ![ts] |
-> | [**NPM Package: Invert-css**](https://www.npmjs.com/package/invert-css) | [Live](https://chaseottofy.github.io/invert-css-variables-ui/) | ![ts] |
+> | [**> Next.js Blog**](https://github.com/chaseottofy/nextjs-blog) | [Live](https://nextjs-blog-ottofy.vercel.app/) | ![next] ![react] ![ts] |
+> | [**> Portfolio**](https://github.com/chaseottofy/Portfolio) | [ottofy.dev](https://ottofy.dev) | ![js] ![webpack] |
+> | [**> NPM Package: Datepicker**](https://www.npmjs.com/package/monthpicker-lite-js) | [Live](https://stackblitz.com/edit/monthpicker-lite-js?file=package.json) | ![ts] |
+> | [**> Google Calendar Clone**](https://github.com/chaseottofy/google-calendar-clone-vanilla) | [Live](https://echaseottofy.github.io/google-calendar-clone-vanilla/) | ![js] ![webpack] |
 
 ---
 
-Smaller projects are published to [Codepen @chaseottofy](https://codepen.io/chaseottofy/pens/showcase)
+**Small projects/demos:** [Codepen @chaseottofy](https://codepen.io/chaseottofy/pens/showcase).
 
-I've also started sharing some front-end automation/utility scripts - [front-end-tools](https://github.com/chaseottofy/front-end-tools)
+**Front-end automation/utility scripts:** [front-end-tools](https://github.com/chaseottofy/front-end-tools).
 
 ---
 
-**No social media**
-
-Additional Links of sites I'm active on:
+I don't use social media, but I do interact on codewars and post to youtube.
 
 [![youtube]](https://www.youtube.com/channel/UCawR0cR_xHGCnKy3Vg6yc7g)
 
@@ -33,13 +40,18 @@ Additional Links of sites I'm active on:
 <br>
 
 **I am available to work full-time immediately with no restrictions, whether that be remote or in-person.**
-My current location is Northern Colorado.
 
-Please feel free to reach out to me via email at:
+Currently located in Northern Colorado.
+
+---
+
+REACH ME VIA EMAIL:
+- Check your spam folder if you don't see a response! Gmail like to put me in there
 
 ```bash
 ottofy@zohomail.com
 ```
+
 ---
 
 [ts]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
