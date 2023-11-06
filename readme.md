@@ -1,10 +1,8 @@
-**Check out my portfolio: [ottofy.dev](https://ottofy.dev)**
+### **[portfolio: ottofy.dev](https://ottofy.dev)**
 
 ---
 
 My most recent polished project, and the best representation of my current skillset is the Next.js Blog.
-
-The google calender clone is the most impressive, but it was also my earliest. It's a good representation of my ability to figure out complex apps from scratch, but it is in no way indicative of my current skillset.
 
 > | Repo Link | Live Link | Tech |
 > | ------- | --------- | --------- |
