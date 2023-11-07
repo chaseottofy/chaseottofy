@@ -2,7 +2,7 @@
 
 In progress / recently completed -- *11/6/23*
 
-* [ ] [React/TS: Form validation + custom API](https://github.com/chaseottofy/react-form-w-api)
+* [ ] [React/TS: Form validation + custom API](https://github.com/chaseottofy/react-form-with-api)
 * [x] [React/TS: Infinite Scroll Demo w/ jsonplaceholder API](https://chaseottofy.github.io/infinite-scroll-demo/)
 * [x] [Typescript: Invert bulk css variables package/webtool](https://chaseottofy.github.io/invert-css-variables-ui/)
 * [x] [Typescript: Hackernews frontpage clone using RSS](https://github.com/chaseottofy/rss-parser-demo)
