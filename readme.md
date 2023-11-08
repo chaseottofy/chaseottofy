@@ -9,7 +9,7 @@ In progress / recently completed -- *11/6/23*
 
 ---
 
-#### **Polished projects** -- Newest to Oldest.
+### **Polished projects** -- Newest to Oldest.
 
 > **Demo + Repo links.**
 > 
