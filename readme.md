@@ -1,15 +1,5 @@
 ### Portfolio: **[ottofy.dev](https://ottofy.dev)**
 
-In progress / recently completed -- *11/12/23*
-
-* [x] [Typescript: CLI tool: Custom Bulk SVG Formatter/Prettify](https://github.com/chaseottofy/bulk-svg-prettify)
-* [ ] [Nextjs/TS: Nextjs Auth Demo](https://github.com/chaseottofy/nextjs-auth-demo)
-* [x] [React/TS: Infinite Scroll Demo w/ jsonplaceholder API](https://chaseottofy.github.io/infinite-scroll-demo/)
-* [x] [Typescript: Invert bulk css variables package/webtool](https://chaseottofy.github.io/invert-css-variables-ui/)
-* [x] [Typescript: Hackernews frontpage clone using RSS](https://github.com/chaseottofy/rss-parser-demo)
-
----
-
 ### **Polished projects** -- Newest to Oldest.
 
 > **Demo + Repo links.**
