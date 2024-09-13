@@ -3,9 +3,6 @@
 ### **Polished projects** -- Newest to Oldest.
 
 > **Demo + Repo links.**
-> 
-> The Google Calendar clone is almost 2 years old and was the first thing I built from scratch so keep that in mind when looking at the code.
-> The rest were all made in the last 4 months and are significantly better with regards to code quality, structure, testing, and documentation.
 
 > | Repo Link | Live Link | Tech |
 > | ------- | --------- | --------- |
