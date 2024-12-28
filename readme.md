@@ -1,7 +1,26 @@
 ### Portfolio: **[ottofy.dev](https://ottofy.dev)**
 
-### **Polished projects** -- Newest to Oldest.
+REACH ME VIA EMAIL:
 
+```bash
+ottofy@zohomail.com
+```
+
+Thanks to some of my projects on here I have been busy with contract work for the past year and a half.
+12-27-24
+
+**I am now looking for a full-time opportunity either remote or in Las Vegas. If your job includes javascript, I am interested.**
+
+I specialize in:
+- Web apps (React/Nextjs, Vanilla)
+- Electron apps: ffmpeg interface, window management tool, etc.
+- Nodejs: Specifically extending the functionality of existing tools. Think webpack plugins, custom project management tools etc.
+
+### **Polished projects** -- Newest to Oldest
+- Haven't had the opportunity in a year or so to really invest in a polished project due to other work.
+
+**Small projects/demos:** [Codepen @chaseottofy](https://codepen.io/chaseottofy/pens/showcase).
+  
 > **Demo + Repo links.**
 
 > | Repo Link | Live Link | Tech |
@@ -13,13 +32,8 @@
 
 ---
 
-**Small projects/demos:** [Codepen @chaseottofy](https://codepen.io/chaseottofy/pens/showcase).
-
-**Front-end automation/utility scripts:** [front-end-tools](https://github.com/chaseottofy/front-end-tools).
 
 ---
-
-I don't use social media, but I do interact on codewars and post to youtube.
 
 [![youtube]](https://www.youtube.com/channel/UCawR0cR_xHGCnKy3Vg6yc7g)
 
@@ -27,20 +41,13 @@ I don't use social media, but I do interact on codewars and post to youtube.
 
 <br>
 
-**I am available to work full-time immediately with no restrictions, whether that be remote or in-person.**
-
-Currently located in Northern Colorado.
-
 ---
 
 REACH ME VIA EMAIL:
-- Check your spam folder if you don't see a response! Gmail like to put me in there
 
 ```bash
 ottofy@zohomail.com
 ```
-
----
 
 [ts]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
