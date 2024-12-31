@@ -6,10 +6,9 @@ REACH ME VIA EMAIL:
 ottofy@zohomail.com
 ```
 
-Thanks to some of my projects on here I have been busy with contract work for the past year and a half.
-12-27-24
+I have been doing contract web development work for 2 years with various stacks but mostly vanillajs and react. 
 
-**I am now looking for a full-time opportunity either remote or in Las Vegas. If your job includes javascript, I am interested.**
+Currently available for hire - Located in Las Vegas. 12-27-24
 
 I specialize in:
 - Web apps (React/Nextjs, Vanilla)
